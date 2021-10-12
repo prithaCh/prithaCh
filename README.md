@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with **Ernst and Young**
 
-- 🌱 I’m currently learning **ReactJS,MicroFrontEnd Applications**
+- 🌱 I’m currently learning **Microservices and MicroFrontEnd Applications**
 
 - 📫 How to reach me **pritha2907@gmail.com**
 
